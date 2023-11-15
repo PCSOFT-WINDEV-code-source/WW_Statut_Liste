@@ -1,0 +1,131 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : webhook
+ major_version : 28
+ minor_version : 0
+ type : 65538
+ description : ""
+ subtype : 8192
+page :
+ name : webhook
+ identifier : 0x209147660271c839
+ internal_properties : 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
+ properties : {}
+ type : 1
+ languages :
+  - fr-FR
+ code_elements :
+  type_code : 38
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaPage()
+      
+      // Cette page reçoit les appels de la webhook du robot de surveillance
+      // Chaque appel est une requête POST contenant un tableau de STWebHookExport sérialisé en JSON
+      
+      // Structure d'export
+      STWebHookExport est une Structure
+      	RobotName		est une chaîne
+      	ControlName		est une chaîne
+      	ControlCategory	est une chaîne
+      	Severity		est une chaîne
+      	ResponsibleList	est une chaîne
+      	FirstError		est une DateHeure
+      	ErrorMessage	est une chaîne
+      	IsError			est un booléen
+      	CustomError		est une chaîne
+      FIN
+      
+      gtabInfoWebhook est un tableau de STWebHookExport
+     type : 851968
+   -
+     code : |1+
+      HCréationSiInexistant("*")
+      
+      QUAND EXCEPTION DANS
+      	// Récupère les données qui ont été passées dans le contenu de la requête vers cette page
+      	// Permet de récupérer le contenu de la requête POST
+      	bufDonnéesPOST est un buffer = PageParamètre(paramBuffer)
+      	Désérialise(gtabInfoWebhook,bufDonnéesPOST,psdJSON)
+      FAIRE
+      	FinProgramme()	
+      FIN
+      
+      
+      pour tout stControl de gtabInfoWebhook
+      	// Recherche ou création de la catégorie
+      	si HLitRecherchePremier(Category,CategoryName,stControl.ControlCategory)=faux ALORS
+      		hraz(Category)
+      		Category.CategoryName = stControl.ControlCategory
+      		hajoute(Category)		
+      	FIN
+      	// Recherche ou création du contrôle
+      	si HLitRecherchePremier(ControlInfo,ControlName,stControl.ControlName)=faux ALORS
+      		hraz(ControlInfo)
+      		ControlInfo.ControlName = stControl.ControlName
+      	FIN
+      	// Mise à jour des infos en base
+      	ControlInfo.IDCategory = Category.IDCategory
+      	ControlInfo.Severity = stControl.Severity
+      	ControlInfo.ResponsibleList = stControl.ResponsibleList
+      	ControlInfo.FirstError = stControl.FirstError
+      	ControlInfo.ErrorMessage = stControl.ErrorMessage
+      	ControlInfo.IsError = stControl.IsError
+      	ControlInfo.CustomError = stControl.CustomError
+      	HEnregistre(ControlInfo)	
+      FIN
+     type : 851996
+   -
+     type : 852017
+     enabled : false
+   -
+     type : 852119
+     enabled : false
+   -
+     type : 852298
+     role : N
+   -
+     type : 851999
+     role : N
+   -
+     type : 852000
+     role : N
+   -
+     type : 852232
+     enabled : false
+   -
+     type : 852167
+     enabled : false
+   -
+     type : 852169
+     role : N
+     enabled : false
+   -
+     type : 852225
+     role : N
+     enabled : false
+   -
+     type : 852227
+     enabled : false
+   -
+     type : 1310979
+     enabled : false
+   -
+     type : 852228
+     role : N
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : PAGE_SansNom1
+resources :
+ string_res :
+  identifier : 0x10914750000071fb
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+webification :
+ internal_properties : CAAAAAgAAACYzxT95H3qP7nIys4LqA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
